@@ -66,12 +66,6 @@ nav a:hover{
     margin-bottom: 1.5em;
 }
 
-.custom-bullets{
-    list-style-type:'\2192';
-    line-height: 1.4em;
-    margin-left: 10px;
-}
-
 .sub-bullets{
     list-style-type:circle;
     padding-left: 1em;
